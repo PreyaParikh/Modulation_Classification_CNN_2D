@@ -7,7 +7,7 @@ CoreVectorBlox IP.
 
 ```
 MATLAB (.mat model)
-   │  (exported externally, not part of this repo)
+   │  
    ▼
 modclass_vbx.onnx          raw ONNX export
    │  onnxsim (fixed input shape)
