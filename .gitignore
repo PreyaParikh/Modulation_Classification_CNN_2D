@@ -1,0 +1,20 @@
+# ModClass2DCNN (MATLAB) generated artifacts
+ModClass2DCNN/trainedModClassVBX.mat
+ModClass2DCNN/testData.mat
+ModClass2DCNN/modclass_vbx.onnx
+*.asv
+*.m~
+slprj/
+codegen/
+
+# modclass_vbx (VectorBlox pipeline) generated artifacts
+modclass_vbx/build/
+
+# Python 
+__pycache__/
+*.pyc
+.venv/
+
+# OS 
+.DS_Store
+Thumbs.db
