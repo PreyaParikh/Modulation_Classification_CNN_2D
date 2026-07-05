@@ -53,7 +53,7 @@ Each folder has its own README with full details.
    ```bash
    cd modclass_vbx
    export VBX_SDK=~/VectorBlox-SDK      # path to your built VectorBlox SDK
-   ./modulation_classification_2D.sh
+   ./modclass_cnn.sh
    ```
    This pipeline reads `modclass_vbx.onnx` and `testData.mat` directly from
    `../ModClass2DCNN/` (no manual copying needed) and produces
